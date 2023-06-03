@@ -1,9 +1,9 @@
 <div align="center">
-<img width="100%" height="50%" object="cover" src="https://images.unsplash.com/photo-1588354924596-71b1cb1393fb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&h=300&q=80" alt="cover" />
+<img width="100%" object="cover" src="https://images.unsplash.com/photo-1620825937374-87fc7d6bddc2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1200&h=300&q=80" alt="cover" />
 </div>
 <span align="left"> <img src="https://komarev.com/ghpvc/?username=itznur07&label=Profile%20views&color=0e75b6&style=flat" alt="itznur07" /> </span> 
 <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/hi.gif" width="50px" height="50px">, I'm nuruddin</h1>  
-<h3 align="center">A passionate MERN DEVELOPER from 🇧🇩</h3>  
+<h3 align="center">A passionate MERN DEVELOPER</h3>  
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itznur07&" alt="itznur07" /></p>
 <br>
 
