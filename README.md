@@ -1,7 +1,7 @@
 <div align="center">
  
  
-<img width="100%" src="https://images.unsplash.com/photo-1588354924596-71b1cb1393fb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80" alt="cover" />
+<!-- <img width="100%" src="https://images.unsplash.com/photo-1588354924596-71b1cb1393fb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80" alt="cover" /> -->
 </div>
 <span align="left"> <img src="https://komarev.com/ghpvc/?username=itznur07&label=Profile%20views&color=0e75b6&style=flat" alt="itznur07" /> </span> 
 <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/hi.gif" width="50px" height="50px">, I'm nuruddin</h1>  
