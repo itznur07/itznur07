@@ -1,9 +1,8 @@
 <div align="center">
-<img width="100%" object="cover" src="https://media.licdn.com/dms/image/D5616AQGPxa00gp-hCQ/profile-displaybackgroundimage-shrink_350_1400/0/1687438109901?e=1692835200&v=beta&t=fZXq19wH_RbByiJZTDtYHWFFSjhilGNkruZiDvXu9zk" alt="cover" />
 </div>
 <span align="left"> <img src="https://komarev.com/ghpvc/?username=itznur07&label=Profile%20views&color=0e75b6&style=flat" alt="itznur07" /> </span> 
-<h1 align="center">Hi <img src = "https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/hi.gif" width="50px" height="50px">, I'm nuruddin</h1>  
-<h3 align="center">A passionate MERN DEVELOPER</h3>  
+<h1 align="center">Hi <img src = "https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/hi.gif" width="50px" height="50px">, I'm Nur Uddin</h1>  
+<h3 align="center">A Passionate MERN Stack Developer</h3>  
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itznur07&" alt="itznur07" /></p>
 <br>
 
