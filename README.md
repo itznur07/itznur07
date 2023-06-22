@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" object="cover" src="https://deeplor.s3.us-west-2.amazonaws.com/matting_original/2023/06/19/75f2a5a4cc464b8e849c9ecda96bdcca.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230619T085139Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3599&X-Amz-Credential=AKIAROYXHKZUSZONTWIG%2F20230619%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Signature=96779d9b14168f8831da63219ff21ee5998d3913f8baebee78a0115bbe80ad5c" alt="cover" />
+<img width="100%" object="cover" src="https://media.licdn.com/dms/image/D5616AQGPxa00gp-hCQ/profile-displaybackgroundimage-shrink_350_1400/0/1687438109901?e=1692835200&v=beta&t=fZXq19wH_RbByiJZTDtYHWFFSjhilGNkruZiDvXu9zk" alt="cover" />
 </div>
 <span align="left"> <img src="https://komarev.com/ghpvc/?username=itznur07&label=Profile%20views&color=0e75b6&style=flat" alt="itznur07" /> </span> 
 <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/hi.gif" width="50px" height="50px">, I'm nuruddin</h1>  
