@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working at MERN STACK
 
-- 🌱 I’m currently learning Full STACK
+- 🌱 I’m currently learning - NEXT.JS PENDING: Typescript, GraphQL
 
 - 💬 Talk to me about React, Node, JavaScript, MongoDB
 - 📫 Reach me at **nuruddinalways99@gmail.com**
