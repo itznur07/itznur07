@@ -1,16 +1,16 @@
 <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/hi.gif" width="50px" height="50px">, I'm Nur Uddin</h1>  
-<h3 align="center">A Passionate MERN Stack Developer</h3>  
+<h3 align="center">A Passionate MERN Stack & React Natve Developer</h3>  
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itznur07&" alt="itznur07" /></p>
 <p align="center"> <img align="center" src="https://komarev.com/ghpvc/?username=itznur07&label=Profile%20views&color=0e75b6&style=flat" alt="itznur07" /> </p> 
 
 <h2> About Me  <img src = "https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently working at MERN STACK
+- 🔭 I’m currently working at Banao
 
-- 🌱 I’m currently learning - NEXT.JS PENDING: Typescript, GraphQL
+- 🌱 I’m currently learning - Typescript
 
-- 💬 Talk to me about React, Node, JavaScript, MongoDB
+- 💬 Talk to me about MERN, React Native, Expo, Cross-platform
 - 📫 Reach me at **nuruddinalways99@gmail.com**
 
 <br>
