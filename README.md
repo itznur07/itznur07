@@ -8,18 +8,19 @@
 
 - 🔭 I’m currently working at Banao
 
-- 🌱 I’m currently learning - Typescript
+- 🌱 I’m currently learning - DevOps 
 
-- 💬 Talk to me about MERN, React Native, Expo, Cross-platform
+- 💬 Talk to me about MERN Stack, React Native, Expo, Cross-platform
 - 📫 Reach me at **nuruddinalways99@gmail.com**
 
 <br>
   
 <h2>Connect With Me <img src = "https://media2.giphy.com/media/al7grkbrCChTAPEfyh/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>  
 <p align="left">   
-<a href="https://linkedin.com/in/itznur07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="itznur07" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/itsnur07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="itznur07" height="30" width="40" /></a>
 <a href="https://instagram.com/itznur07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nur" height="30" width="40" /></a>  
 <a href="https://medium.com/@itznur07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@itznur" height="30" width="40" /></a>  
+<a href="https://itznur07.vercel.app/" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/web.svg](https://cdn-icons-png.flaticon.com/512/5988/5988135.png)" alt="@itznur" height="30" width="40" /></a>
 </p>
 
 <br> 
