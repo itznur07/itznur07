@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working at Banao
 
-- 🌱 I’m currently learning - DevOps 
+- 🌱 I’m currently learning - Everyday i try to learning someting new.
 
 - 💬 Talk to me about MERN Stack, React Native, Expo, Cross-platform
 - 📫 Reach me at **nuruddinalways99@gmail.com**
