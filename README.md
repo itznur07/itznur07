@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning - every day I try to learn something new
 
-- 💬 Talk to me about MERN Stack, React Native, Expo, Cross-platform, typescript
+- 💬 Talk to me about MERN Stack, React Native, Expo, Cross-platform, and typescript.
 - 📫 Reach me at **nuruddinalways99@gmail.com**
 
 <br>
