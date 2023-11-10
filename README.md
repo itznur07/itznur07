@@ -20,7 +20,7 @@
 <a href="https://linkedin.com/in/itsnur07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="itznur07" height="30" width="40" /></a>
 <a href="https://instagram.com/itznur07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nur" height="30" width="40" /></a>  
 <a href="https://medium.com/@itznur07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@itznur" height="30" width="40" /></a>  
-<a href="https://itznur07.vercel.app/" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/web.svg](https://cdn-icons-png.flaticon.com/512/5988/5988135.png" alt="@itznur" height="30" width="40" /></a>
+<a href="https://itznur07.vercel.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/web.svg](https://cdn-icons-png.flaticon.com/512/5988/5988135.png" alt="@itznur" height="30" width="40" /></a>
 </p>
 
 <br> 
