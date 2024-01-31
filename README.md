@@ -7,7 +7,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 🔭 I’m currently working at ATG
-- 🌱 I’m currently learning - Mastering of Backend
+- 🌱 I’m currently learning - Mastering of Full Stack
 
 - 💬 Talk to me about MERN Stack, React Native, Expo, Cross-platform, and typescript, Next.JS
 - 📫 Reach me at **nuruddinalways99@gmail.com**
