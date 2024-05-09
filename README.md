@@ -7,7 +7,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 🔭 I’m currently working at Banao
-- 🌱 I’m currently learning - Mastering of Full Stack
+- 🌱 I’m currently learning - Mastering of JS
 
 - 💬 Talk to me about JavaScript, MERN Stack, React Native, and typescript, Next.JS
 - 📫 Reach me at **nuruddinalways99@gmail.com**
