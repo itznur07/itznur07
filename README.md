@@ -8,7 +8,7 @@
 <!-- <h3 align="center">A Passionate MERN/React Natve Developer</h3>   -->
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=itznur07&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img align="right" src="https://github-readme-activity-graph.vercel.app/graph?username=itznur07&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itznur07&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 <p align="center"> <img align="center" src="https://komarev.com/ghpvc/?username=itznur07&label=Profile%20views&color=0e75b6&style=flat" alt="itznur07" /> </p> 
