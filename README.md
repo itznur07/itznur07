@@ -3,7 +3,7 @@
   <img height="200" src="https://i.ibb.co/xDQYZkL/logo.png"  />
 </div>
 <div align="center">
-  <h1 >Hi <img src="https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/hi.gif" width="50px" height="50px">, I'm Nur Uddin</h1> 
+  <h1 >Hi <img src="https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/hi.gif" width="50px" height="50px"> I'm Nur Uddin</h1> 
   <h3 >A Passionate MERN/React Native Developer</h3>
 </div>
 
