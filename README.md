@@ -1,8 +1,8 @@
 
 
 <div align="center">
-  <h1 >Hi <img src="https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/hi.gif" width="50px" height="50px"> I'm Nur Uddin</h1> 
-  <h3 >A Passionate MERN/React Native Developer</h3>
+  <h1 >Hi <img src="https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/hi.gif" width="50px" height="50px"> I'm Nur</h1> 
+  <h3 >A Passionate Web and Mobile Developer </h3>
 </div>
 
 <!-- <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/hi.gif" width="50px" height="50px">, I'm Nur Uddin</h1>  -->
