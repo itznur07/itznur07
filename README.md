@@ -14,7 +14,7 @@
 - 🔭 I’m currently working at BRB
 - 🌱 I’m currently learning - Mastering of Full-Stack (Web and Mobile)
 
-- 💬 Talk to me about JavaScript, MERN Stack, React Native, and typescript, Next.JS
+- 💬 Talk to me about JavaScript, ReactJS, React Native, and typescript, Next.JS
 - 📫 Reach me at **nuruddinalways99@gmail.com**
 
 <br>
@@ -22,9 +22,8 @@
 <h2>Connect With Me <img src = "https://media2.giphy.com/media/al7grkbrCChTAPEfyh/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>  
 <p align="left">   
 <a href="https://linkedin.com/in/itsnur07" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
-<a href="https://x.com/itznur07" target="blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo" /></a>  
+<a href="https://x.com/devnur07" target="blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo" /></a>  
 <a href="https://instagram.com/itznur07" target="blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  /></a>  
-<a href="https://medium.com/@itznur07" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  /></a>  
 <a href="https://itznur07-personal-web.vercel.app/" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codesandbox/default.svg" width="52" height="40" alt="codesandbox logo"  /></a>
 </p>
 
