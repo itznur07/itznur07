@@ -15,7 +15,7 @@
 - 🔭 I’m currently working at BeautyRightBack
 - 🌱 I’m currently learning - Mastering of Full-Stack (Web and Mobile)
 
-- 💬 Talk to me about JavaScript, ReactJS, React Native, and typescript, Next.JS
+- 💬 Talk to me about JavaScript, ReactJS, React Native, and typescript, Next.JS, MUI, Tailwind
 - 📫 Reach me at **nuruddinalways99@gmail.com**
 
 <br>
